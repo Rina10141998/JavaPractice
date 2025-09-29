@@ -1,4 +1,4 @@
-package TimeofStay;
+package timeofstay;
 
 import java.util.*;
 public class Main {
